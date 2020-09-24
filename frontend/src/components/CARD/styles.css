@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card-list {
+  display: flex;
+  flex: 1 0 33.333333%;
+  flex-wrap: wrap;
+}
+
+
+.big-card{
+  display:flex;
+  flex-wrap:wrap;
+
+}
